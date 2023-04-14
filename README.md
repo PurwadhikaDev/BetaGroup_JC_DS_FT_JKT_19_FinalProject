@@ -1,7 +1,7 @@
 # BetaGroup_JC_DS_FT_JKT_19_FinalProject
 ## Group Members: Refa Yudhatama Ramadhan & Dhimas Aditya Zulhajmi
 ### Mentors: Mas Albert & Mas Ahmad
-### JCDS 1094
+### JCDS 1904
 
 Ini adalah file readme untuk sebuah proyek pembelajaran mesin yang dibuat untuk membantu Bank Portugal meningkatkan pangsa pasarnya dengan meningkatkan kampanye pemasarannya. Bank telah beroperasi selama lebih dari 50 tahun dan menawarkan berbagai produk keuangan, termasuk deposito, pinjaman, dan hipotek. Divisi pemasaran bank telah memutuskan untuk menggunakan kampanye pemasaran langsung untuk mempromosikan produk deposito jangka tetapnya kepada pelanggan. Untuk meningkatkan efektivitas kampanye ini dan mengurangi biaya pemasaran, bank telah menyewa tim ilmuwan data untuk membangun model pembelajaran mesin yang dapat memprediksi pelanggan mana yang paling mungkin menerima tawaran tersebut.
 
